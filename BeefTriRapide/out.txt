@@ -1,0 +1,14 @@
+
+
+Fichier de : 50000
+
+Test d'un tableau dynamique comme en C
+Time elapsed in millis : 5
+
+
+Test d'un tableau Beef
+Time elapsed in millis : 12
+
+
+Test d'une liste d'entiers et la fonction sort qui est intégrée
+Time elapsed in millis : 9

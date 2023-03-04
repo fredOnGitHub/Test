@@ -1,0 +1,8 @@
+*.vscode/*
+*.exe
+*.class
+*.out
+
+build/
+recovery/
+*.toml
